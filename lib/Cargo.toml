@@ -1,10 +1,10 @@
 [package]
 name = "geo-booleanop2"
-version = "0.3.2"
+version = "0.3.3"
 authors = ["angcyo@126.com", "Bodo Junglas <junglas@objectcode.de>"]
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/21re/rust-geo-booleanop"
+repository = "https://github.com/RustStudioIst/rust-geo-booleanop"
 description = "Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm"
 readme = "../README.md"
 keywords = ["gis", "geo", "geography", "geospatial"]
