@@ -4,4 +4,4 @@
 set +x
 
 cargo login
-cargo publish
+cargo publish -p geo-booleanop2
